@@ -1,0 +1,12 @@
+january, Week 1, 2 January - 6 January, 8.60
+january, Week 2, 9 January - 13 January, 8.40
+january, Week 3, 16 January - 20 January, 9.10
+january, Week 4, 23 January - 27 January, 9.40
+february, Week 1, 30 January - 3 February, 8.90
+february, Week 2, 6 February - 10 February, 9.90
+february, Week 3, 13 February - 17 February, 9.40
+february, Week 4, 20 February - 24 February, 10.60
+march, Week 1, 27 February - 3 March, 10.50
+march, Week 2, 6 March - 10 March, 8.60
+march, Week 3, 13 March - 17 March, 8.50
+march, Week 4, 20 March - 24 March, 9.40
